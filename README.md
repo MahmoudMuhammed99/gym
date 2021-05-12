@@ -1,2 +1,2 @@
 # gym
-A simple template that we developed using HTML &CSS in early learning
+A simple template that i developed using HTML &CSS in early learning
